@@ -59,15 +59,29 @@
 
 // int main()
 // {
-// for(int i=1;i<=2;i++)
-// {
-// for(int j=i;j<=2;j++)
-// 	// cout<<i<@;
-// }
+	// for(int i=1;i<=2;i++)
+	// {
+		// for(int j=i;j<=2;j++)
+		// 	// cout<<i<@;
+		// }
+		// }
+		
+		// // output==> compile time error 
+		
+// .........................................................................................................
+ //  5. Predict the output
+// #include <bits/stdc++.h>
+// using namespace std;
+// int main( ) {
+// for (int x = 1; x * x <= 10; x++){
+// 	cout << "In for loop" << endl;
+//  }
 // }
 
-// // output==> compile time error 
 
+// output===> In for loop
+// 		   In for loop
+// 		   In for loop
 // // ..........................................................................................
 
 // //  6. Predict the output
@@ -136,7 +150,7 @@ int main(){
 		int digit = n%10;
 		reverse = reverse*10 + digit;
 		n=n/10;
-		cout<<" the reverse  is "<<reverse<<endl;
+		
 
 	}
 	cout<<" the sum of the reverse is "<<reverse+sum<<endl;
@@ -156,8 +170,8 @@ int main(){
 	cin>>n;
 	for (int i=1;i<=n;i++){
 		sum=sum*i;
+		cout<<sum<< endl;
 	}
-	cout<<sum<< endl;
 
 }
 // Sample Output : 3628800
