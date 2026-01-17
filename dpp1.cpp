@@ -458,7 +458,7 @@ int  main(){
 
 }
 
-// 3. Write a program to input a floating number and print only the fractional part.**
+// 13. Write a program to input a floating number and print only the fractional part.**
 
 // (Eg: 12.56 → 0.56)
 
