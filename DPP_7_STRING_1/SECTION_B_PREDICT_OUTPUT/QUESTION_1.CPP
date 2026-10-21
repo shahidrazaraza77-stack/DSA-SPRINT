@@ -1,0 +1,11 @@
+
+// char arr[] = {'H','e','l','l','o','\0'};
+// int i = 0;
+// while(arr[i] != '\0'){
+//     cout << arr[i];
+//     i++;
+// }
+
+
+
+// output :  HELLO

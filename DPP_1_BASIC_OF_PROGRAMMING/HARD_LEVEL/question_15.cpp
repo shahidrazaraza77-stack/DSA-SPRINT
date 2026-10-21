@@ -1,0 +1,20 @@
+// 15. Write a program to input any number and print whether its last digit is even or odd using modulus.**
+
+// (Do NOT use if/else → just print the last digit and remainder.)
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num;
+    cout << "Enter a number: ";
+    cin >> num;
+    
+    int lastDigit = num % 10;
+    int remainder = lastDigit % 2;
+    
+    cout << "Last digit: " << lastDigit << endl;
+    cout << "Remainder when divided by 2: " << remainder << endl;
+    
+    return 0;
+}

@@ -1,0 +1,5 @@
+// Can binary search be applied to data types other than
+//  integers (for example, characters or strings)? 
+//  Explain with reasoning.
+
+

@@ -1,0 +1,10 @@
+5. How many characters can be stored in this array?
+    
+    ```cpp
+    char name[10];
+    
+    ```
+
+ANS ..
+
+maximum character that can be stored =9

@@ -1,0 +1,7 @@
+What is a character array in C++? 
+
+
+A **character array in C++** is a 
+collection of characters stored in contiguous memory 
+locations, used to represent strings, and terminated
+ by a null character (`'\0'`).

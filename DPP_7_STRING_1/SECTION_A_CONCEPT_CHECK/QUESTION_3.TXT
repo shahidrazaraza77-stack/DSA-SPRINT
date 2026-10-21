@@ -1,0 +1,11 @@
+Q.What happens if we forget to add a null character 
+at the end of a character array?
+
+
+ANS ... 
+
+
+
+Without a null character, the character array is not 
+treated as a string, leading to garbage output and 
+undefined behavior.

@@ -1,0 +1,14 @@
+// char arr[10];
+// cin >> arr;
+// cout << arr;
+
+
+
+// ❓ Why will this code fail for multi-word input? Fix it.
+
+
+
+// ANS ....   BECAUSE ITS DOES NOT INCLUDE THE SPACE IF 
+//             WE HAVE TO INCLUDE THE SPACE WE SHOULD USE 
+            
+//             cin.getline()

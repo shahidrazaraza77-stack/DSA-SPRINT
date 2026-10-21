@@ -1,0 +1,10 @@
+Q .How is a character array different from a 
+string (string class)?
+
+
+ANS ..
+
+
+A character array is a low-level, fixed-size way 
+to store strings, while the string class provides 
+a safer, dynamic, and easier way to handle strings in C++.

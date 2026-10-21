@@ -1,0 +1,16 @@
+Q . The null character is required to mark the end of a string 
+in a character array so that the compiler and string functions know
+ where the string terminates.
+
+
+ANSWER :: 
+
+The null character is required to mark the end
+of a string in a character array so that the compiler
+and string functions know where the string terminates.
+
+EX...
+char name[] = "Ram";
+
+STORED IN MEMORY AS 
+R  a  m  \0

@@ -1,0 +1,3 @@
+// 2. Consider an array where all elements are **unique**.
+    
+//     Do first occurrence and last occurrence still make sense? Explain why or why not.
